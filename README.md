@@ -10,7 +10,7 @@ Installs GCC. Please see [COMPATIBILITY.md](COMPATIBILITY.md) for more informati
 
 * CentOS 6
 * RHEL 6
-* Ubuntu 12.04
+* Ubuntu 12.04, 12.10, 13.04, 13.10, 14.04
 
 ### Cookbooks
 
